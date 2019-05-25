@@ -2,7 +2,7 @@
 
 
 
-This is the repository for our SIGIR paper *Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence *. We will release our code before the conference.
+This is the repository for our SIGIR paper *Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence *. We will release our code soon.
 
 
 
